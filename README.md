@@ -1,4 +1,5 @@
-## Hi,✌️ I'm João Vitor, I'm a software engineering student!
+## Hi,✌️ I'm João Vitor
+💻Full stack developer - Software Engineering student!
 
 <div align="center"></br>
   <a href="https://github.com/jjvbarbosa">
