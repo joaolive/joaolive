@@ -30,7 +30,6 @@
 ## 📫 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎
 <div> 
   <a href = "mailto:joaovitor123war@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "[mailto:joaovitor123war@hotmail.com](https://api.whatsapp.com/send/?phone=5538988286237&text=github%3A+https%3A%2F%2Fgithub.com%2Fjjvbarbosa&type=phone_number&app_absent=0)"><img src="https://img.shields.io/badge/-Email-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jv_bar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaovitor123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
