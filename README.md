@@ -5,9 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=jjvbarbosa&color=blueviolet&style=for-the-badge&label=visitors)
 </br>
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝙸𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚘 𝚍𝚎 𝙴𝚍𝚞𝚌𝚊çã𝚘 𝚂𝚞𝚙𝚎𝚛𝚒𝚘𝚛 𝚍𝚎 𝙱𝚛𝚊𝚜í𝚕𝚒𝚊, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝙹𝚞𝚗𝚎 𝟸0𝟸𝟺
+## :book: About me
+- 🖥 Backend Developer
+- 🎓 Studyng Software Engineering at the Instituto de Educação Superior de Brasília
 
 
 <div style="display: inline_block"></br>
@@ -27,7 +27,7 @@
 </div>
 
 ##
-## 📫 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎
+## 📫 Connect with me
 <div>
   <a href="https://instagram.com/jv_bar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaovitor123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
