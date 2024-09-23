@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="jv-title" width="100%" height="100%" src="[https://media.discordapp.net/attachments/1048773871211401306/1155561819419717653/nome.png?width=1133&height=97](https://media.discordapp.net/attachments/1048773871211401306/1155561819419717653/nome.png?ex=66f2530f&is=66f1018f&hm=5cdad6821ba6402ce35fa740c4b1d1c230b8b2b81c445c5d3846d4025e7de6a1&=&format=webp&quality=lossless)">
+  <img alt="jv-title" width="100%" height="100%" src="https://media.discordapp.net/attachments/1048773871211401306/1155561819419717653/nome.png?ex=66f2530f&is=66f1018f&hm=5cdad6821ba6402ce35fa740c4b1d1c230b8b2b81c445c5d3846d4025e7de6a1&=&format=webp&quality=lossless">
 </p>
 
 
