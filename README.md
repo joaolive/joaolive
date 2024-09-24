@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="jv-title" width="100%" height="100%" src="https://media.discordapp.net/attachments/1048773871211401306/1155561819419717653/nome.png?ex=66f2530f&is=66f1018f&hm=5cdad6821ba6402ce35fa740c4b1d1c230b8b2b81c445c5d3846d4025e7de6a1&=&format=webp&quality=lossless">
+  <img alt="Hi there! I'm João Vitor" width="100%" height="100%" src="https://media.discordapp.net/attachments/1048773871211401306/1288202107219873802/jv-presentation-github.png?ex=66f45333&is=66f301b3&hm=34120ffd0ad434a6a7545471c900ee266fb4d177a991d97fa7237506f9978501&=&format=webp&quality=lossless">
 </p>
 
 
