@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=jjvbarbosa&color=red&style=for-the-badge&label=visitors)
 </br>
 </br>
-<img alt="about me" src="https://private-user-images.githubusercontent.com/70347598/386341731-79a02fda-3840-4a60-8ed4-67adfa112d93.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2MTM0MTIsIm5iZiI6MTczMTYxMzExMiwicGF0aCI6Ii83MDM0NzU5OC8zODYzNDE3MzEtNzlhMDJmZGEtMzg0MC00YTYwLThlZDQtNjdhZGZhMTEyZDkzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDE5MzgzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3ZGNkYWI2Y2FhM2I1YTZkZjYyY2YwMTNhNmZhODYwNzM3ZTM1ODViMjYwNDA3Njk2MjE0MjZjZWQ1ODAyMjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.G4IjWHsK6gcsdaCn8Mo7Uum8UpVxQlr5RX47eb6N8-k" />
+<img alt="about me" height="30" src="https://raw.githubusercontent.com/jjvbarbosa/jjvbarbosa/refs/heads/main/about-me.png" />
 - 🖥 Backend Developer
 - 🎓 Studyng Software Engineering at the Instituto de Educação Superior de Brasília
 
