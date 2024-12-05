@@ -1,11 +1,11 @@
 <p align="center">
-  <img alt="Hi there! I'm João Vitor" width="100%" height="100%" src="https://private-user-images.githubusercontent.com/70347598/386341828-fcccf6b6-e77b-4119-960c-071a0f83c893.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2MTM0MTIsIm5iZiI6MTczMTYxMzExMiwicGF0aCI6Ii83MDM0NzU5OC8zODYzNDE4MjgtZmNjY2Y2YjYtZTc3Yi00MTE5LTk2MGMtMDcxYTBmODNjODkzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDE5MzgzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwNGMyNDRlZDljNzQzZmIzNTZhMThhYTliYTcxNjk5OGViN2M5ZjVmYmJkZjRhMTY5NTY5YTVjMzg1OTAzZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1HwNlgGrxdiiwpNDSMex31pkn_XyNPgoWZ60sWNgkgA" />
+  <img alt="Hi there! I'm João Vitor" width="100%" height="100%" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/hi-there.png" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jjvbarbosa&color=red&style=for-the-badge&label=visitors)
 </br>
 </br>
-<img alt="about me" height="30" src="https://raw.githubusercontent.com/jjvbarbosa/jjvbarbosa/refs/heads/main/about-me.png" />
+<img alt="about me" height="30" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/about-me.png" />
 - 🖥 Backend Developer
 - 🎓 Studyng Software Engineering at the Instituto de Educação Superior de Brasília
 
@@ -23,11 +23,11 @@
   <img align="center" alt="jv-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
  
-  <img align="right" alt="jv-pic" height="150" style="border-radius:50px;" src="https://private-user-images.githubusercontent.com/70347598/386341902-aaa8d421-cd54-4743-88fc-9a06ff729225.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2MTM0MTIsIm5iZiI6MTczMTYxMzExMiwicGF0aCI6Ii83MDM0NzU5OC8zODYzNDE5MDItYWFhOGQ0MjEtY2Q1NC00NzQzLTg4ZmMtOWEwNmZmNzI5MjI1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDE5MzgzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0OGM3M2U0N2JiOGU1N2QwMTM1ODIzODNjODk5ZTkyNDg4YWMzMzMzNTA5MWI0YjNmMmIxZjc0Njk1ZjExMmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WvVbEjSicFDKjwUJTdX2O3RyJ67gnvPK0guys4pkQsE" />
+  <img align="right" alt="jv-pic" height="150" style="border-radius:50px;" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/jv.png" />
 </div>
 
 ##
-<img alt="connect with me" src="https://private-user-images.githubusercontent.com/70347598/386341637-46d31921-c753-458e-a812-a4f2dacbc5ca.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2MTM0MTIsIm5iZiI6MTczMTYxMzExMiwicGF0aCI6Ii83MDM0NzU5OC8zODYzNDE2MzctNDZkMzE5MjEtYzc1My00NThlLWE4MTItYTRmMmRhY2JjNWNhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDE5MzgzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4N2NmNjZlOTQ1ZGRjYWE0NjE3OGFhNTI3NmQzN2U5YjNlYzVlZGQxZDAzNzkzMGU3NTA3N2MzM2FhNjQ3MTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rjaODqCXjEwcGOae9LFCCNGjnJkHBB7w6BZW01dqQFA" />
+<img alt="connect with me" height="30" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/connect-with-me.png" />
 <div>
   <a href="https://instagram.com/jv_bar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaovitor123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
