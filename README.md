@@ -23,7 +23,7 @@
   <img align="center" alt="jv-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
  
-  <img align="right" alt="jv-pic" height="150" style="border-radius:50px;" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/jv.png" />
+  <img align="right" alt="jv-pic" height="150" style="border-radius:50px;" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/main/jv-ghlibli-cut.png" />
 </div>
 
 ##
