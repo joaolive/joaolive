@@ -26,7 +26,7 @@
 </div>
 
 ##
-<img alt="connect with me" width="50" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/connect-with-me.png" />
+<img alt="connect with me" width="100" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/connect-with-me.png" />
 <div>
   <a href="https://instagram.com/jv_bar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaovitor123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
