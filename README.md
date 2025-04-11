@@ -6,7 +6,6 @@
 </br>
 </br>
 <img alt="about me" height="30" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/about-me.png" />
-- 🖥 Backend Developer
 - 🎓 Studyng Software Engineering at the Instituto de Educação Superior de Brasília
 
 
