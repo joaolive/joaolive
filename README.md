@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=jjvbarbosa&color=red&style=for-the-badge&label=visitors)
 </br>
 </br>
-<img alt="about me" height="30" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/about-me.png" />
+<img alt="about me" width="50" height="30" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/about-me.png" />
 - 🎓 Studyng Software Engineering at the Instituto de Educação Superior de Brasília
 
 
