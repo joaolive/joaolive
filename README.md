@@ -6,7 +6,8 @@
 </br>
 </br>
 <img alt="about me" width="90" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/about-me.png" />
-- 🎓 Studyng Software Engineering at the Instituto de Educação Superior de Brasília
+- 🎓 Bachelor’s Degree in Software Engineering, The Higher Education Institute of Brasília
+- 💻 Cadet at 42 São Paulo
 
 
 <div style="display: inline_block"></br>
