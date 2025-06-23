@@ -11,6 +11,7 @@
 
 
 <div style="display: inline_block"></br>
+  <img align="center" alt="jv-C" height="30" width="30" src="https://github.com/joaolive/joaolive/blob/5adf046c4273efcf6b57b0920a37f4e0cd26106a/c-logo.png">
   <img align="center" alt="jv-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="jv-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="jv-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
