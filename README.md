@@ -9,7 +9,6 @@
 - 🎓 Bachelor’s Degree in Software Engineering, The Higher Education Institute of Brasília
 - 💻 Cadet at 42 São Paulo
 
-
 </br>
 <img alt="skills" width="75" src="https://github.com/joaolive/joaolive/blob/5c1c9a90331c59349a6506776cc99dc0a5294512/v2/skills.png" />
 <p align="left">
@@ -17,19 +16,11 @@
     <img height=40 src="https://skillicons.dev/icons?i=c,cpp,java,spring,maven,js,ts,react,postgres,mongo,git,docker,vscode,vim" />
   </a>
 </p>
-<!-- <div style="display: inline_block"></br>
-  <img align="center" alt="jv-C" height="30" width="30" src="https://github.com/joaolive/joaolive/blob/5adf046c4273efcf6b57b0920a37f4e0cd26106a/c-logo.png">
-  <img align="center" alt="jv-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="jv-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="jv-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="jv-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="jv-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="jv-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div> -->
 
 ##
 <img alt="connect with me" width="180" src="https://github.com/joaolive/joaolive/blob/dff0d5a3c06bd90a63bfd2d5250f0bda7d959235/v2/connect-with.png" />
 <div>
+  <a href="https://www.linkedin.com/in/joaovitor123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:devjoaolive@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"></a>
   <a href="https://instagram.com/jv_bar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaovitor123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
