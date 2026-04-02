@@ -5,11 +5,13 @@
 ![](https://komarev.com/ghpvc/?username=jjvbarbosa&color=red&style=for-the-badge&label=visitors)
 </br>
 </br>
-<img alt="about me" width="90" src="https://github.com/joaolive/joaolive/blob/6f56cd3736138d2708c294677c674ac252399c10/v2/about-me.png" />
+<img alt="about me" width="100" src="https://github.com/joaolive/joaolive/blob/6f56cd3736138d2708c294677c674ac252399c10/v2/about-me.png" />
 - 🎓 Bachelor’s Degree in Software Engineering, The Higher Education Institute of Brasília
 - 💻 Cadet at 42 São Paulo
 
+
 </br>
+<img alt="skills" width="75" src="https://github.com/joaolive/joaolive/blob/5c1c9a90331c59349a6506776cc99dc0a5294512/v2/skills.png" />
 <p align="left">
   <a href="https://skillicons.dev">
     <img height=40 src="https://skillicons.dev/icons?i=c,cpp,java,spring,maven,js,ts,react,postgres,mongo,git,docker,vscode,vim" />
@@ -26,7 +28,7 @@
 </div> -->
 
 ##
-<img alt="connect with me" width="150" src="https://github.com/joaolive/joaolive/blob/dff0d5a3c06bd90a63bfd2d5250f0bda7d959235/v2/connect-with.png" />
+<img alt="connect with me" width="180" src="https://github.com/joaolive/joaolive/blob/dff0d5a3c06bd90a63bfd2d5250f0bda7d959235/v2/connect-with.png" />
 <div>
   <a href="https://instagram.com/jv_bar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaovitor123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
