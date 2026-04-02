@@ -2,7 +2,7 @@
   <img alt="Hi there! I'm João Vitor" width="100%" height="100%" src="https://github.com/joaolive/joaolive/blob/be8737e81f92ee57c333c0f90d57069622048799/v2/hi-there.png" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=jjvbarbosa&color=red&style=for-the-badge&label=visitors)
+![](https://komarev.com/ghpvc/?username=jjvbarbosa&color=blue&style=for-the-badge&label=visitors)
 </br>
 </br>
 <img alt="about me" width="100" src="https://github.com/joaolive/joaolive/blob/6f56cd3736138d2708c294677c674ac252399c10/v2/about-me.png" />
