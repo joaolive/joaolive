@@ -9,16 +9,21 @@
 - 🎓 Bachelor’s Degree in Software Engineering, The Higher Education Institute of Brasília
 - 💻 Cadet at 42 São Paulo
 
-
-<div style="display: inline_block"></br>
+</br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height=40 src="https://skillicons.dev/icons?i=c,cpp,java,spring,maven,js,ts,react,postgres,mongo,git,docker,vscode,vim" />
+  </a>
+</p>
+<!-- <div style="display: inline_block"></br>
   <img align="center" alt="jv-C" height="30" width="30" src="https://github.com/joaolive/joaolive/blob/5adf046c4273efcf6b57b0920a37f4e0cd26106a/c-logo.png">
   <img align="center" alt="jv-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="jv-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="jv-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="jv-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <!--<img align="center" alt="jv-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="jv-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">-->
-</div>
+  <img align="center" alt="jv-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="jv-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div> -->
 
 ##
 <img alt="connect with me" width="150" src="https://github.com/joaolive/joaolive/blob/dff0d5a3c06bd90a63bfd2d5250f0bda7d959235/v2/connect-with.png" />
