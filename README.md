@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=jjvbarbosa&color=red&style=for-the-badge&label=visitors)
 </br>
 </br>
-<img alt="about me" width="90" src="https://github.com/jjvbarbosa/jjvbarbosa/blob/d294c8d9e653ea117ecfa4aba3ea928f799d151c/about-me.png" />
+<img alt="about me" width="90" src="https://github.com/joaolive/joaolive/blob/6f56cd3736138d2708c294677c674ac252399c10/v2/about-me.png" />
 - 🎓 Bachelor’s Degree in Software Engineering, The Higher Education Institute of Brasília
 - 💻 Cadet at 42 São Paulo
 
