@@ -24,3 +24,8 @@
   <a href="mailto:devjoaolive@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"></a>
   <a href="https://instagram.com/jv_bar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<!-- </br>
+</br>
+<img alt="languages" width=240 src="https://github.com/joaolive/joaolive/blob/839ed5942332b2b322f3d5ddcaa60c50f4cd25bf/v2/languages.png"/>
+<img align="left" alt="most used languages" src="https://github.com/joaolive/joaolive/blob/15ea4c9aff0d82348abd89e1ade2de61bc67a983/assets/languages.svg"/> -->
